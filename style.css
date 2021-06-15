@@ -141,7 +141,9 @@ a {
   background-color: #77acf1;
   animation: skill_translate 1s;
 }
-.backend,
+.backend {
+  display: none;
+}
 .frontend {
   display: none;
 }
